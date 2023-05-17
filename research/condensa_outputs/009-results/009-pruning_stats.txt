@@ -1,0 +1,6 @@
+Pruned data for 0.09:
+Pruned data for 0.09:
+Pruned data for 0.09:
+Pruned data for 0.09:
+Number of non-zeros on PRUNED model: 32485
+Test set: Avg. loss: 0.0990, Accuracy: 9733/10000 (97%)

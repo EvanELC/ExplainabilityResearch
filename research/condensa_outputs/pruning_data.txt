@@ -1,0 +1,16 @@
+Pruned data for 0.8
+Number of non-zeros on PRUNED model: 317440
+Test set: Avg. loss: 0.0573, Accuracy: 9822/10000 (98%)
+Pruned data for 0.8
+Number of non-zeros on PRUNED model: 317440
+Test set: Avg. loss: 0.0562, Accuracy: 9823/10000 (98%)
+Pruned data for 0.5
+Number of non-zeros on PRUNED model: 197335
+Test set: Avg. loss: 0.0610, Accuracy: 9827/10000 (98%)
+Pruned data for 0.2
+Pruned data for 0.1
+Number of non-zeros on PRUNED model: 37195
+Test set: Avg. loss: 0.0917, Accuracy: 9762/10000 (98%)
+Pruned data for 0.009
+Number of non-zeros on PRUNED model: 2004
+Test set: Avg. loss: 2.3023, Accuracy: 1010/10000 (10%)

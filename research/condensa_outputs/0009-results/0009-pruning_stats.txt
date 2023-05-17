@@ -1,0 +1,3 @@
+Pruned data for 0.009
+Number of non-zeros on PRUNED model: 2004
+Test set: Avg. loss: 2.3023, Accuracy: 1010/10000 (10%)
