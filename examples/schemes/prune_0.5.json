@@ -1,5 +1,5 @@
 {
-    "sparsity": 0.5,
+    "sparsity": 0.95,
     "*": [
         {
             "type": "prune"
